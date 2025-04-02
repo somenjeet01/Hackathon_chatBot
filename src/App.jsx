@@ -11,7 +11,6 @@ const App = () => {
         <ChatBox />
         <Bubbles/>
       </div>
-      
     </div>
   );
 };
